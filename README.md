@@ -1,5 +1,9 @@
 # kakinotane-learn
 
+## demo
+
+![](https://github.com/nooooon/kakinotane-learn/blob/master/demo.gif)
+
 ## yolov2-voc
 
 [weights file](https://www.dropbox.com/s/e5f1y72mj3t56uy/yolov2-voc-obj_8000.weights?dl=0)
